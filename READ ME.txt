@@ -1,0 +1,45 @@
+SYSTEM ACCESS CREDENTIALS
+
+* USER: admin123
+* PASSWORD: admin123
+
+=====================================================
+
+DATABASE USER
+
+* USER: root
+* PASSWORD:
+
+=====================================================
+
+It is important to emphasize that in order to use the program, you must establish a connection with the database through XAAMP
+For this, the following steps will be followed:
+
+1. Install XAMPP 
+=========================================================================================================
+
+2. Run the application, once executed we will start the Apache and MySQL processes
+=========================================================================================================
+
+3. Once executed we will give the admin option in the MySQL module
+=========================================================================================================
+
+4. Once in the web page of the database we are going to create a new database
+
+=========================================================================================================
+
+5. Once created we go to the import section
+=========================================================================================================
+
+6. In the import section we are going to select a live file, the file explorer will open
+=========================================================================================================
+
+7. We will select the file that is in the database folder inside the Inventory System zip
+=========================================================================================================
+
+8. Once selected we go to the bottom and we import
+=========================================================================================================
+
+9. Having carried out the previous steps, we can now close the web page and we are ready to run the program and enter
+========================================================================================================= 
+10. Run the .jar file that is inside the executable folder in case you don't want to open it from netbeans.
